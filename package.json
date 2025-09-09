@@ -7,7 +7,7 @@
     "react-dom": "^15.6.1"
   },
   "devDependencies": {
-    "babel-eslint": "7.0.0",
+    "babel-eslint": "10.1.0",
     "standard": "8.4.0"
   },
   "standard": {
